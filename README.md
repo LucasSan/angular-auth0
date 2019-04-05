@@ -29,6 +29,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 1. I'll need set the "Allowed Callback URLs" on auth0 application setup, to "http://localhost:4200/callback"
 
-2. Access the menu Connections -> Database -> Settings
+2. Set the file auth0-variables.ts with your domain and client_id that was provided by auth0
 
-3. Access the Password Policy option to set the Password strength.
+3. Access the menu Connections -> Database -> Settings
+
+4. Access the Password Policy option to set the Password strength.
